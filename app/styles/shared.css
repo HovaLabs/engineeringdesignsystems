@@ -183,13 +183,13 @@ h2 {
 img.book {
   width: 300px;
   position: relative;
-  top: 100px;
-  margin-top: var(--areaPadding);
+  margin-top: 32px;
 }
 
 /* Definition */
 
 #definition {
+  margin-top: -116px;
   background-color: var(--surface);
   display: flex;
   justify-content: center;
