@@ -296,14 +296,14 @@ img.book {
   display: flex;
   flex-direction: column;
   position: relative;
-  top: -18px;
+  top: -20px;
   width: 100%;
   padding-right: 32px;
 }
 
 .emailFormArea input {
   border: 2px solid var(--onBackground);
-  padding: 22px;
+  padding: 21px;
   font-size: 24px;
   font-family: "Cambria";
   outline-offset: var(--outlineOffset);
