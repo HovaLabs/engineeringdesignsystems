@@ -4,13 +4,13 @@ export default function TableOfContents() {
   const copy = tableOfContentsCopy.map((value: TChapter) => {
     const description = value.description
       ? value.description.map((item) => {
-          return <div key={item}>- {item}</div>;
+          return <li key={item}>- {item}</li>;
         })
       : null;
     return (
       <li key={value.title}>
         <strong>{value.title}</strong>
-        {description}
+        <ul>{description}</ul>
       </li>
     );
   });

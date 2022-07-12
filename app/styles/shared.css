@@ -234,7 +234,7 @@ img.book {
 }
 
 #TableOfContents > ul ul {
-  list-style: disc;
+  list-style: none;
 }
 
 /* Brought to you By */
