@@ -230,6 +230,7 @@ img.book {
 
 #TableOfContents > ul {
   list-style: none;
+  padding-inline-start: 0;
 }
 
 #TableOfContents > ul ul {
