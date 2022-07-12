@@ -340,7 +340,7 @@ img.book {
   :root {
     --areaPadding: 32px;
     --h1-font-size: 3rem;
-    --h1-line-height: 1.4rem;
+    --h1-line-height: 3.4rem;
     --h2-font-size: 1.7rem;
   }
 
@@ -367,6 +367,10 @@ img.book {
     gap: 0;
   }
 
+  #TableOfContents {
+    align-items: flex-start;
+  }
+
   #BroughtToYouByContainer {
     flex-direction: column;
   }
@@ -380,6 +384,9 @@ img.book {
     gap: 0px;
   }
 
+  #signup .signUpCopy {
+    padding-right: 0px;
+  }
   #signupFormFlex {
     flex-direction: column;
   }

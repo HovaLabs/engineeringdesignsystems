@@ -3,7 +3,7 @@ export default function Definition() {
     <div id="definition">
       <div className="container">
         <div id="definitionContainer">
-          <h2>Design System</h2>
+          <h2>Design System:</h2>
           <p>
             A philosophy for working intentionally between design, engineering,
             and product. For engineers, this includes how you create global
