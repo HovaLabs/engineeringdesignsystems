@@ -12,7 +12,10 @@ import styles from "~/styles/shared.css";
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Actionable Design Systems",
-  description: "really cool stuff",
+  description: "A design system book for engineers.",
+  "og:image": `https://actionabledesignsystems.netlify.app/social.png`,
+  keywords:
+    "kaitlyn hova, design systems book, engineering design systems book, design system book engineers",
   viewport: "width=device-width,initial-scale=1",
 });
 
