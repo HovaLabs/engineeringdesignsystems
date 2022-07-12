@@ -340,6 +340,7 @@ img.book {
   :root {
     --areaPadding: 32px;
     --h1-font-size: 3rem;
+    --h1-line-height: 1.4rem;
     --h2-font-size: 1.7rem;
   }
 
