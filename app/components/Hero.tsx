@@ -10,12 +10,12 @@ export default function Hero() {
         Normally when you’re reading about design systems it’s from the
         perspective of design or UX. What about engineers?
         <div>
-          <strong>Actionable Design Systems</strong> is the book for you!
+          <strong>Engineering Design Systems</strong> is the book for you!
         </div>
       </h2>
       <img
         className="book"
-        alt="Actionable Design Systems book cover"
+        alt="Engineering Design Systems book cover"
         src={BookImg}
         loading="lazy"
       />

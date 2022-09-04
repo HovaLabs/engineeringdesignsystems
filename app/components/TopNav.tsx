@@ -5,19 +5,19 @@ export default function TopNav() {
     <div id="nav">
       <span className="logo">
         <img
-          alt="Actionable Design Systems book cover"
+          alt="Engineering Design Systems book cover"
           src={Logo}
           width="32px"
           loading="lazy"
         />
-        <h1>Actionable Design Systems</h1>
+        <h1>Engineering Design Systems</h1>
       </span>
       <nav>
         <ul>
           <li>
             <a
               target="_blank"
-              href="https://github.com/ActionableDesignSystems"
+              href="https://github.com/EngineeringDesignSystems"
               rel="noreferrer"
             >
               Github

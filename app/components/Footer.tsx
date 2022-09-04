@@ -8,7 +8,7 @@ export default function Footer() {
         <li>
           <a
             target="_blank"
-            href="https://github.com/ActionableDesignSystems"
+            href="https://github.com/EngineeringDesignSystems"
             rel="noreferrer"
           >
             Github

@@ -4,13 +4,8 @@ export default function TopNavMobile() {
   return (
     <div id="navMobile">
       <span className="logo">
-        <img
-          alt="Actionable Design Systems book cover"
-          src={Logo}
-          width="32px"
-          loading="lazy"
-        />
-        <h1> {`Actionable /n Design /n Systems`}</h1>
+        <img alt="A Book Apart Logo" src={Logo} width="32px" loading="lazy" />
+        <h1> {`Engineering /n Design /n Systems`}</h1>
       </span>
       <button> Buy Book </button>
       <div id="popUp">
@@ -19,7 +14,7 @@ export default function TopNavMobile() {
             <li>
               <a
                 target="_blank"
-                href="https://github.com/ActionableDesignSystems"
+                href="https://github.com/EngineeringDesignSystems"
                 rel="noreferrer"
               >
                 Github Repo
